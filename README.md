@@ -6,6 +6,11 @@ This project converts gold spot prices from USD (XAU/USD) into RMB using USD/CNY
 - **Price:** P(CNY gold) = P(USD gold) × USD/CNY  
 - **Log return:** r(CNY) ≈ r(USD) + r(FX)
 
+## Data
+Daily close prices from Stooq:
+- XAU/USD (gold spot)
+- USD/CNY (FX rate)
+
 ## Figures
 ![USD Price](figures/price_usd.png)
 ![CNY Price](figures/price_cny.png)
