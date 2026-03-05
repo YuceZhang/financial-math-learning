@@ -1,4 +1,4 @@
-**Live report (GitHub Pages):** https://github.com/YuceZhang/financial-math-learning/edit/main/README.md
+**Live report (GitHub Pages):** https://github.com/YuceZhang/financial-math-learning/settings/pages
 
 # Gold in RMB: USD Gold vs FX Risk (2005–2026)
 
