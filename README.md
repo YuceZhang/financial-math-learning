@@ -30,4 +30,5 @@ This project converts gold spot prices from USD (XAU/USD) into RMB using USD/CNY
 - Covariance effect ≈ -9.5% (risk offset)
 
 ## Notebook
-Open `gold_rmb_analysis.ipynb` and run all cells.
+Open \notebook/gold_rmb_analysis.ipynb` and run all cells.`
+
