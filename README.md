@@ -1,3 +1,5 @@
+**Live report (GitHub Pages):** https://github.com/YuceZhang/financial-math-learning/edit/main/README.md
+
 # Gold in RMB: USD Gold vs FX Risk (2005–2026)
 
 This project converts gold spot prices from USD (XAU/USD) into RMB using USD/CNY and analyzes return dynamics and risk contributions.
