@@ -11,6 +11,9 @@ Daily close prices from Stooq:
 - XAU/USD (gold spot)
 - USD/CNY (FX rate)
 
+## Tools
+Python: pandas, numpy, matplotlib
+
 ## Figures
 ![USD Price](figures/price_usd.png)
 ![CNY Price](figures/price_cny.png)
